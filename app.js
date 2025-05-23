@@ -1,3 +1,3 @@
 console.log("Here comes trouble");
 
-console.log("m 3");
+console.log("f 1");
